@@ -73,18 +73,19 @@ c.) It is possible to still time out because of dropped packets, if a packet is 
 Problem 6
 =========
 a.)
-![](https://github.com/jon5477/CSCI4273/blob/master/Problem%20Sets/Set1/prob6a.jpg)
+![](https://github.com/jon5477/CSCI4273/blob/master/Problem%20Sets/Set 1/prob6a.jpg)
 
 b.)
-![](https://github.com/jon5477/CSCI4273/blob/master/Problem%20Sets/Set1/prob6b.jpg)
+![](https://github.com/jon5477/CSCI4273/blob/master/Problem%20Sets/Set 1/prob6b.jpg)
 
 Problem 7
 =========
-![](https://github.com/jon5477/CSCI4273/blob/master/Problem%20Sets/Set1/prob7.jpg)
+![](https://github.com/jon5477/CSCI4273/blob/master/Problem%20Sets/Set 1/prob7.jpg)
 
 Problem 8
 =========
 Bridge X
+
 |Address|Interface|
 |-------|---------|
 |   1   |    1    |
@@ -95,6 +96,7 @@ Bridge X
 |   3   |    3    |
 
 Bridge Y
+
 |Address|Interface|
 |-------|---------|
 |   1   |    1    |
